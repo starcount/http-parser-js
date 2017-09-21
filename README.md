@@ -4,7 +4,7 @@ This library parses HTTP protocol for requests and responses.  It was created to
 
 This was further modified by Jimbly to be useable in parsing responses, specifically tested with the "request" module, and addresses issues such as corrupt HTTP headers, which would otherwise cause Node's parser to throw a fatal error (HPE_INVALID_HEADER_TOKEN).
 
-Jan Schär (jscissr) made some bigger changes and added tests. This fixed some bugs and added many missing features.
+Jan Schar (jscissr) made some bigger changes and added tests. This fixed some bugs and added many missing features.
 
 This is packaged as a standalone npm module.  To use in node, monkeypatch HTTPParser.
 

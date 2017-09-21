@@ -10,7 +10,7 @@ const server = http.createServer(common.mustCall((req, res) => {
 server.listen(0, () => {
   http.get({
     port: server.address().port,
-    headers: {'Test': 'Düsseldorf'}
+    headers: {'Test': 'Dusseldorf'}
   }, common.mustCall((res) => {
     assert.equal(res.statusCode, 200);
     server.close();

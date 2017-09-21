@@ -26,7 +26,7 @@ of nodejs/io.js:
 - tests/iojs/test-http-parser-durability.js
 
   This file is from https://github.com/mscdex/io.js/blob/js-http-parser/test/pummel/test-http-parser-durability.js
-  with modifications by Jan Schär (jscissr).
+  with modifications by Jan Schar (jscissr).
 
   """
   Copyright io.js contributors. All rights reserved.
@@ -58,10 +58,10 @@ of nodejs/io.js:
   tests/utils.py
 
   These files are from https://github.com/nodejs/node with changes by
-  Jan Schär (jscissr).
+  Jan Schar (jscissr).
 
   Node.js is licensed for use as follows:
-  
+
   """
   Copyright Node.js contributors. All rights reserved.
 
@@ -107,4 +107,3 @@ of nodejs/io.js:
   FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
   IN THE SOFTWARE.
   """
-  
