@@ -2,7 +2,7 @@
   "name": "http-parser-js",
   "version": "0.4.7",
   "description": "A pure JS HTTP parser for node.",
-  "main": "copy-of-http-parser.js",
+  "main": "http-parser.js",
   "scripts": {
     "test":
       "python tests/test.py && node tests/iojs/test-http-parser-durability.js"
