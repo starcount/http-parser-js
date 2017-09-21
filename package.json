@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git://github.com/creationix/http-parser-js.git"
   },
-  "files": [],
+  "files": ["http-parser.js"],
   "keywords": ["http"],
   "author": "Tim Caswell (https://github.com/creationix)",
   "contributors": [
